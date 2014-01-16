@@ -7,7 +7,7 @@
     "dotty": "*",
     "lodash": "*"
   },
-  "description": "Enable user policies for Derby User.",
+  "description": "Validation library for Derby JS.",
   "keywords": [
     "derby",
     "validate",

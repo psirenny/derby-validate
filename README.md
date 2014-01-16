@@ -1,4 +1,4 @@
-Derby User Validate
-===================
+Derby Validate
+==============
 
-Add user validation to Derby User.
+Validation library for Derby JS.
